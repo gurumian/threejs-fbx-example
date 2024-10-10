@@ -1,4 +1,4 @@
-# THREEJS-WEBPACK-BOILERPLATE
+# threejs-fbx
 npm + typescript + webpack
 
 Change the `name` and `description` in `package.json`.
